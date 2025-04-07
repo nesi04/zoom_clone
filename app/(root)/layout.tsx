@@ -1,7 +1,7 @@
 import StreamVideoProvider from '@/providers/StreamClientProvider'
 import { Metadata } from 'next';
 import React, { ReactNode } from 'react'
-import Stream from 'stream'
+
 
 export const metadata: Metadata = {
   title: "Zoomer",
